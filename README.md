@@ -1,4 +1,4 @@
-Composer Library Template
+APIs
 =========================
 
 Library For APIs
